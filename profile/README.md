@@ -1,21 +1,32 @@
 # Lumenforge AI
 
-Applied intelligence, forged into usable systems.
+Forging luminous intelligence.
 
-Lumenforge AI is a small open community for people building practical AI tools, experiments, and documentation. We care more about working software than slogans.
+Lumenforge AI is a small, open community for people building and learning with AI: research notes, applied experiments, tooling, and beginner-friendly collaboration.
 
 ## What we do
 
-- Prototype applied AI tools
-- Share notes, evaluations, and small open-source experiments
-- Help new contributors land a first public change
+- Share practical AI experiments and writeups
+- Keep a low barrier for first-time contributors
+- Help members learn GitHub collaboration in public
 
 ## Join
 
-Membership is low-threshold. Open an issue in [community](https://github.com/Lumenforge-AI/community) with the title **Join Lumenforge AI**, include your GitHub username and a one-line intro. An owner reviews and sends an invite. No sponsor and no contribution quota.
+Membership is open to people who introduce themselves.
 
-Read the steps: [How to join](https://github.com/Lumenforge-AI/community#how-to-join)
+1. Open an issue in [join](https://github.com/Lumenforge-AI/join) titled **Join Lumenforge AI**
+2. Include your GitHub username, a one-line intro, and what you want to work on
+3. An owner will send an invitation
+4. Accept it, then set your membership to **Public** at [People](https://github.com/orgs/Lumenforge-AI/people)
+
+No prior pull requests are required.
+
+## Repositories
+
+- [join](https://github.com/Lumenforge-AI/join) — request membership
+- [brand](https://github.com/Lumenforge-AI/brand) — logo and identity
+- [lab](https://github.com/Lumenforge-AI/lab) — experiments and notes
 
 ## Members
 
-Public members appear on this profile. After you accept an invite, set your membership to Public at [People](https://github.com/orgs/Lumenforge-AI/people).
+Owners review join requests manually. Please do not open duplicate requests.
